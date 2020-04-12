@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: W3Layouts/delog
+  repo: Nik-Ches/gatsby-starter-delog2
 media_folder: static/assets
 public_folder: /assets
 collections:
